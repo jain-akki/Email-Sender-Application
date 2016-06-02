@@ -1,0 +1,15 @@
+E:\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+E:\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+E:\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+E:\EmailSender\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\EmailSender\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+E:\EmailSender\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\EmailSender\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.exe
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.pdb
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\bin\Debug\EmailSender.exe
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\bin\Debug\EmailSender.pdb
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.Form1.resources
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.Properties.Resources.resources
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.csproj.GenerateResource.Cache
+E:\EmailSender\EmailSender2(17-dec)\EmailSender\obj\x86\Debug\EmailSender.csprojResolveAssemblyReference.cache
